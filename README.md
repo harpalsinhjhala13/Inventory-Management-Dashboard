@@ -4,6 +4,7 @@
 
 Here is the Link to Project https://shorturl.at/rsENQ
 
+![Screenshot 2023-11-21 161339](https://github.com/harpalsinhjhala13/Inventory-Management-Dashboard/assets/141703984/3c7c0eee-07c4-40d6-af2e-4dbe40023078)
 
 **PROJECT SUMMARY**
 
@@ -50,7 +51,12 @@ The implementation of proactive replenishment strategies, guided by the dashboar
 **3. **Expand Implementation**:** Consider expanding the implementation of the dashboard to additional stores or product categories to replicate the success achieved in the initial phase.
 
 **4. **Feedback Mechanism**:** Establish a feedback mechanism to gather insights from end-users, allowing continuous improvement and refinement of the dashboard features.
+![Screenshot 2023-11-21 161012](https://github.com/harpalsinhjhala13/Inventory-Management-Dashboard/assets/141703984/5d6da7df-d570-4523-9829-aed76c1c721e)
+![Screenshot 2023-11-21 161322](https://github.com/harpalsinhjhala13/Inventory-Management-Dashboard/assets/141703984/0366a657-31be-44cc-a38a-a1824e08f6c6)
 
 ## Conclusion
 
 The Inventory Management Dashboard has proven to be a transformative solution, positively impacting both financial and operational aspects of the company. By achieving a 20% reduction in the cost of credit borrowing and boosting revenue by 31%, the project has demonstrated its strategic value. Moving forward, a continued focus on optimization, training, and expansion will ensure that the company maintains its competitive edge in the dynamic landscape of inventory management.
+![Screenshot 2023-11-21 161411](https://github.com/harpalsinhjhala13/Inventory-Management-Dashboard/assets/141703984/96ac8090-e6aa-4f97-a1ae-edebf8e4136c)
+![Screenshot 2023-11-21 161427](https://github.com/harpalsinhjhala13/Inventory-Management-Dashboard/assets/141703984/7f5a9963-bcbc-4386-9817-67060b13b555)
+
