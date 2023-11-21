@@ -1,6 +1,7 @@
 # Inventory-Management-Dashboard
 # Comprehensive Project Report: Inventory Management Dashboard
 
+Here is the Link to Project https://shorturl.at/rsENQ
 **PROJECT SUMMARY**
 
 Welcome to the comprehensive report detailing the impact and functionality of the Inventory Management Dashboard. This dashboard, designed to manage fashion wear inventory across multiple stores (PUNE, MUMBAI, and AHMEDABAD), has significantly improved the company's financial health and operational efficiency. By leveraging real-time data and intelligent analytics, the dashboard has successfully achieved a 20% reduction in the cost of credit borrowing and a remarkable 31% increase in revenue.
