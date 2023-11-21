@@ -1,5 +1,6 @@
 # Inventory-Management-Dashboard
 # Comprehensive Project Report: Inventory Management Dashboard
+![Screenshot 2023-11-21 161311](https://github.com/harpalsinhjhala13/Inventory-Management-Dashboard/assets/141703984/8a181bf8-2f95-455b-9d35-294fec1fecc1)
 
 Here is the Link to Project https://shorturl.at/rsENQ
 
